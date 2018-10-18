@@ -20,3 +20,5 @@ Disallow: /1855.png
 
 User-Agent: Teoma
 Disallow: /blogs.html
+
+Sitemap: https://kalel13.github.io/jayhariaphotography/sitemap.xml
