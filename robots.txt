@@ -1,0 +1,22 @@
+User-Agent: *
+Disallow: 
+Allow: /index.html
+Disallow: /gears.txt
+
+User-Agent: Googlebot-Mobile
+Allow: /mywork.html
+
+User-Agent: Adsbot-Google
+Disallow: /index.html
+
+User-Agent: Slurp
+Disallow: /gears.html
+
+User-Agent: msnbot
+Allow: /gears.html
+
+User-Agent: msnbot-media
+Disallow: /1855.png
+
+User-Agent: Teoma
+Disallow: /blogs.html
